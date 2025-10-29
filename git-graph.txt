@@ -1,0 +1,26 @@
+* 35079b4 (HEAD -> main, origin/main) docs: Add changelog
+* ec6f94a About Github Journey in this task
+* 20c333e docs: Add changelog
+| * 49fce16 (feature/another-feature) docs: Update README
+|/  
+| * ad55cf8 (origin/feature/another-feature) feat: Add test feature
+|/  
+* fcc800d (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* 614f527 docs: Add FAQ section
+* fd07af0 docs: Add FAQ section
+| * c50c2c0 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+| * 5446e20 feat: Add new feature
+|/  
+* ef1baa6 Added checkpoint3 screenshot
+*   e93bbdb merge: Resolve all conflicts between main and conflict-simulator branches
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | b41d2b4 Added checkpoint2 screenshot
+* | 911119b merge: Resolve all conflicts between main and dev branches
+* | 5133b81 (origin/dev, dev) Added checkpoint1 screenshot
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+| * 02011a5 (instructor/dev) updating dev
+|/  
+* ae630eb Initial commit
