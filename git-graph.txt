@@ -1,4 +1,5 @@
-* 35079b4 (HEAD -> main, origin/main) docs: Add changelog
+* 2270e9c (HEAD -> main, origin/main) docs: Add final project artifacts
+* 35079b4 docs: Add changelog
 * ec6f94a About Github Journey in this task
 * 20c333e docs: Add changelog
 | * 49fce16 (feature/another-feature) docs: Update README
